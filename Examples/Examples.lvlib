@@ -7,4 +7,6 @@
 	<Item Name="Network Config.lvclass" Type="LVClass" URL="../Network Config/Network Config.lvclass"/>
 	<Item Name="Network Setters.vi" Type="VI" URL="../Network Setters.vi"/>
 	<Item Name="Protocol Config.lvclass" Type="LVClass" URL="../Protocol Config/Protocol Config.lvclass"/>
+	<Item Name="Server Config.lvclass" Type="LVClass" URL="../Server Config/Server Config.lvclass"/>
+	<Item Name="Transfer Multiple.vi" Type="VI" URL="../Transfer Multiple.vi"/>
 </Library>
