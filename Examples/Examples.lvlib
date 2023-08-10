@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="MultiBinding.vi" Type="VI" URL="../MultiBinding.vi"/>
 	<Item Name="Network Config.lvclass" Type="LVClass" URL="../Network Config/Network Config.lvclass"/>
 	<Item Name="Network Setters.vi" Type="VI" URL="../Network Setters.vi"/>
 	<Item Name="Protocol Config.lvclass" Type="LVClass" URL="../Protocol Config/Protocol Config.lvclass"/>

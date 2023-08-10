@@ -22,4 +22,5 @@
 		<Item Name="VI Reentrancy.vi" Type="VI" URL="../VI Reentrancy.vi"/>
 	</Item>
 	<Item Name="Binding.lvclass" Type="LVClass" URL="../Binding/Binding.lvclass"/>
+	<Item Name="MultiBinding.lvclass" Type="LVClass" URL="../MultiBinding/MultiBinding.lvclass"/>
 </Library>
